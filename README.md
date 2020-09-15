@@ -13,11 +13,11 @@ Among my <strong>hobbies</strong>, I like listening to music, audiobooks, and wa
 
 ## My GitHub Stats.
 <a href="https://github.com/PranaySaha97?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=PranaySaha97&&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366&show_icons=true&theme=dracula&line_height=27" alt="Niharika's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranaysaha97&title_color=ffffff&show_icons=true&theme=radical"/>
 </a>
 
 <a href="https://github.com/PranaySaha97?tab=repositories">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranaySaha97&theme=dark&hide_langs_below=1&bg_color=002366&icon_color=87ceeb&text_color=daf7dc&title_color=ffffff" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaysaha97&title_color=ffffff&show_icons=true&theme=radical" />
 </a>
 
 ## My Current Employment.
