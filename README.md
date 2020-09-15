@@ -12,13 +12,12 @@ Among my <strong>hobbies</strong>, I like listening to music, audiobooks, and wa
 
 
 ## My GitHub Stats.
-<br>
 <a href="https://github.com/PranaySaha97?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PranaySaha97&&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366&show_icons=true&theme=dracula&line_height=27" alt="Niharika's github stats"/>
 </a>
 
 <a href="https://github.com/PranaySaha97?tab=repositories">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranaySaha97&theme=dark&hide_langs_below=1&bg_color=002366&icon_color=87ceeb&text_color=daf7dc&title_color=ffffff&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranaySaha97&theme=dark&hide_langs_below=1&bg_color=002366&icon_color=87ceeb&text_color=daf7dc&title_color=ffffff" />
 </a>
 
 ## My Current Employment.
@@ -36,7 +35,6 @@ Thereafter, I did my engineering from S.J.C. Institute of Technology, Chikkaball
 
 You can mail me at saha.pranay97@gmail.com or saha.pranay97@outlook.com.
 ### You can also find me here.
-<br>
 <a href="https://www.linkedin.com/in/pranay-saha-42820011a/">
   <img align="left" alt="Pranay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
